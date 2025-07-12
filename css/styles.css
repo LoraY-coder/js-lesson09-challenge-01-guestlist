@@ -137,6 +137,7 @@ input:focus {
   justify-content: center;
   padding: 1em 0;
 }
+
 .assigned-items {
   width: 100%;
   max-width: 400px;
@@ -146,6 +147,7 @@ footer {
   width: 100%;
   padding: 2em 0;
 }
+
 @media screen and (min-width: 800px) {
   .container {
     justify-content: space-between;
